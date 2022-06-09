@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jacob Logue</h1>
 <h3 align="center">A full-stack engineer from New York.</h3>
 
+<img src="images/Github%20Banner.gif">
+
 
 <p align="left"> <a href="https://twitter.com/jakeloguecodes" target="blank"><img src="https://img.shields.io/twitter/follow/jakeloguecodes?logo=twitter&style=for-the-badge" alt="jakeloguecodes" /></a> </p>
 
