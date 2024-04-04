@@ -6,7 +6,6 @@
 
 <h2 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/jakeloguecodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jakeloguecodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jacoblogue/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jacoblogue/" height="30" width="40" /></a>
 <a href="https://instagram.com/jakeloguebass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakeloguebass" height="30" width="40" /></a>
 <a href="https://angel.co/u/jacob-logue"><img align="center" src="assets/icons/icons8-angellist.svg" alt="angel.co/u/jacob-logue" /></a>
